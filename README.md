@@ -46,7 +46,7 @@ Página de sugestões que baseado na escolha do vinho, a página mostra algumas 
 Formulário de contato
 Formulário simples de contato com Nome, telefone, email e mensagem e um botão enviar que irá gerar um pop up de mensagem enviada com sucesso.
 Link do repositório:
-https://davidcordeiro1507.github.io/
+https://davidcordeiro15.github.io/
 
 Membros do grupo:
 Caio Venancio da Silva 556030

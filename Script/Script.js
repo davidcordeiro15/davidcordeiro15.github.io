@@ -65,7 +65,7 @@ function adicionar1() {
         a += qtdvinho1*180;
         resultado1.innerHTML = ` R$${qtdvinho1*180+a},00`; 
         valorTotal += (qtdvinho1*180);
-        valor.innerHTML = ` R$${valorTotal+a},00`;
+        valor.innerHTML = ` R$${valorTotal+a},00`
     }
 
 }
